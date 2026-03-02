@@ -38,3 +38,15 @@ PA_HOST=https://<ADRES_FIREWALL>
 PA_API_KEY=<KLUCZ_API_PALO_ALTO>
 ANTHROPIC_API_KEY=<KLUCZ_API_CLAUDE>
 ```
+
+
+## 📸 Screenshots
+<img width="1229" height="1052" alt="image" src="https://github.com/user-attachments/assets/528ba0ac-f9b9-4bae-bb1d-101c4ded867f" />
+
+<img width="1207" height="1036" alt="image" src="https://github.com/user-attachments/assets/7933fdb1-d258-4501-b355-b76ddc21b30c" />
+
+<img width="1326" height="946" alt="image" src="https://github.com/user-attachments/assets/eb4de3ba-006d-4293-af5d-e0696f165a45" />
+
+<img width="1223" height="1035" alt="image" src="https://github.com/user-attachments/assets/4ebef842-0b9d-4308-ae1b-a134e4c7f850" />
+
+
