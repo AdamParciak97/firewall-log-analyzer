@@ -2,12 +2,6 @@
 
 AI-powered analiza logów ruchu sieciowego Palo Alto Networks z automatycznym sugerowaniem reguł firewall.
 
-## 📸 Screenshots
-
-![Dashboard](docs/dashboard.png)
-![Tabela reguł](docs/rules.png)
-![Raport AI](docs/report.png)
-
 
 ## Funkcjonalności
 - 📊 Dashboard ze statystykami ruchu
